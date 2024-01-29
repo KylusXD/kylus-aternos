@@ -1,0 +1,16 @@
+{
+  "name": "Aternos-AFK-Bot",
+  "version": "1.3.2",
+  "description": "Aternos veya PloudOS gibi sunucularınız için 7/24 AFK bot.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "qHerox",
+  "dependencies": {
+    "log4js": "^6.7.1",
+    "minecraft-data": "^3.59.3",
+    "mineflayer": "^4.18.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}
