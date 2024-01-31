@@ -1,11 +1,11 @@
 {
   "bot-account": {
-    "username": "Kullanıcı Adı"
+    "username": "Gotik"
   },
 
   "server": {
-    "ip": "IP Adresi",
-    "port": 25565,
+    "ip": "babaprosurvival3169.aternos.me",
+    "port": 42245,
     "version": "1.16.5"
   },
 
@@ -41,8 +41,8 @@
 
       "messages": [
         "Ben gerçek bir oyuncuyum! ",
-        "YouTube : KYLUS ",
-        "qHerox tarafından geliştirildim. "
+        "",
+        ""
       ]
     },
 
