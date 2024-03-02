@@ -1,11 +1,11 @@
 {
   "bot-account": {
-    "username": "Kullanıcı Adı"
+    "username": "merve"
   },
 
   "server": {
-    "ip": "IP Adresi",
-    "port": 25565,
+    "ip": "SURVIVALmsp12.aternos.me",
+    "port": 52190,
     "version": "1.16.5"
   },
 
